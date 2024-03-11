@@ -26,5 +26,5 @@
 }
 
 body {
-  font-family: 'brandon-grotesque', sans-serif;
+  font-family: 'brandon-grotesque', sans-serif !important;
 }

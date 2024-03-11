@@ -23,7 +23,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.videovillage.com
   # baseUrl: /status
-  logoUrl: https://status.videovillage.com/videovillage-1line-dark.png
+  logoUrl: https://status.videovillage.com/videovillage-symbol.png
   themeUrl: https://status.videovillage.com/vv-theme.css
   name: Video Village Status
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."

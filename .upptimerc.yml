@@ -6,23 +6,11 @@ sites:
     url: $VVLICENSE_ENDPOINT
     assignees:
       - wilg
-  # - name: Wikipedia
-  #   url: https://en.wikipedia.org
-  # - name: Hacker News
-  #   url: https://news.ycombinator.com
-  # - name: Test Broken Site
-  #   url: https://thissitedoesnotexist.koj.co
-  # - name: IPv6 test
-  #   url: forwardemail.net
-  #   port: 80
-  #   check: "tcp-ping"
-  #   ipv6: true
+  - name: Website
+    url: https://videovillage.com
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.videovillage.com
-  # baseUrl: /status
   logoUrl: https://status.videovillage.com/videovillage-symbol.png
   themeUrl: https://status.videovillage.com/vv-theme.css
   name: Video Village Status

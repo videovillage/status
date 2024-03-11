@@ -3,9 +3,9 @@
   --body-text-color: #f0ffff;
   --card-background-color: rgb(46, 47, 50);
   --nav-background-color: rgb(46, 47, 50);
-  --nav-border-bottom-color: clear;
+  --nav-border-bottom-color: var(--nav-background-color);
   --nav-current-border-bottom-color: #1abc9c;
-  --card-border-color: clear;
+  --card-border-color: var(--card-background-color);
   --down-border-left-color: #eb3b5a;
   --down-background-color: #6b1020;
   --degraded-border-left-color: #f7b731;
@@ -26,5 +26,5 @@
 }
 
 body {
-  font-family: 'brandon-grotesque', sans-serif;
+  font-family: 'brandon-grotesque', sans-serif !important;
 }

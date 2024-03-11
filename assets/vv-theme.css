@@ -24,3 +24,7 @@
   --graph-opacity: 1;
   --graph-filter: none;
 }
+
+body {
+  font-family: 'brandon-grotesque', sans-serif;
+}

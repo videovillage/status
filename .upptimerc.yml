@@ -23,6 +23,8 @@ status-website:
       href: https://videovillage.com
     - title: License
       href: https://license.videovillage.com
+  customHeadHtml: |
+    <link rel="stylesheet" href="https://use.typekit.net/mdj0otj.css">
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

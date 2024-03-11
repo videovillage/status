@@ -1,20 +1,20 @@
 [
   {
-    "name": "vvlicense",
-    "url": "https://license.videovillage.com/apps/co.videovillage.Video-Village-Plugins/releases.xml",
-    "icon": "https://icons.duckduckgo.com/ip3/license.videovillage.com.ico",
-    "slug": "vvlicense",
+    "name": "License Service",
+    "url": "$VVLICENSE_ENDPOINT",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "license-service",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 211,
-    "timeDay": 211,
-    "timeWeek": 211,
-    "timeMonth": 211,
-    "timeYear": 211,
+    "time": 231,
+    "timeDay": 231,
+    "timeWeek": 231,
+    "timeMonth": 231,
+    "timeYear": 231,
     "dailyMinutesDown": {}
   }
 ]

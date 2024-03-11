@@ -2,8 +2,8 @@ owner: videovillage
 repo: status
 
 sites:
-  - name: vvlicense
-    url: https://license.videovillage.com/apps/co.videovillage.Video-Village-Plugins/releases.xml
+  - name: License Service
+    url: $VVLICENSE_ENDPOINT
   # - name: Wikipedia
   #   url: https://en.wikipedia.org
   # - name: Hacker News

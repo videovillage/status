@@ -4,6 +4,8 @@ repo: status
 sites:
   - name: License Service
     url: $VVLICENSE_ENDPOINT
+    assignees:
+      - wilg
   # - name: Wikipedia
   #   url: https://en.wikipedia.org
   # - name: Hacker News

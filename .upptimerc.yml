@@ -21,8 +21,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /status
+  cname: status.videovillage.com
+  # baseUrl: /status
   logoUrl: https://status.videovillage.com/videovillage-1line-dark.png
   themeUrl: https://status.videovillage.com/vv-theme.css
   name: Video Village Status

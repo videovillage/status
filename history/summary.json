@@ -22,19 +22,19 @@
     "url": "https://videovillage.com",
     "icon": "https://icons.duckduckgo.com/ip3/videovillage.com.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 152,
-    "timeDay": 187,
-    "timeWeek": 180,
-    "timeMonth": 187,
+    "timeDay": 204,
+    "timeWeek": 186,
+    "timeMonth": 189,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2025-04-28": 0
+      "2025-04-28": 9
     }
   }
 ]

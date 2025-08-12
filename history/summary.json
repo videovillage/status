@@ -6,18 +6,16 @@
     "slug": "license-service",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 104,
-    "timeWeek": 176,
-    "timeMonth": 213,
+    "timeDay": 139,
+    "timeWeek": 156,
+    "timeMonth": 214,
     "timeYear": 250,
-    "dailyMinutesDown": {
-      "2025-08-11": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Website",
@@ -31,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 144,
-    "timeWeek": 138,
-    "timeMonth": 172,
-    "timeYear": 161,
+    "timeDay": 129,
+    "timeWeek": 121,
+    "timeMonth": 170,
+    "timeYear": 160,
     "dailyMinutesDown": {}
   }
 ]

@@ -1,7 +1,7 @@
 url: $VVLICENSE_ENDPOINT
-status: down
-code: 500
-responseTime: 299
-lastUpdated: 2025-08-28T22:07:22.401Z
+status: up
+code: 200
+responseTime: 144
+lastUpdated: 2025-08-28T22:20:22.641Z
 startTime: 2024-03-11T18:58:09.831Z
 generator: Upptime <https://github.com/upptime/upptime>

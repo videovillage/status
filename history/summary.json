@@ -4,19 +4,19 @@
     "url": "$VVLICENSE_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "license-service",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 246,
-    "timeDay": 164,
-    "timeWeek": 241,
-    "timeMonth": 227,
+    "timeDay": 179,
+    "timeWeek": 237,
+    "timeMonth": 226,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2025-10-29": 0
+      "2025-10-29": 23
     }
   },
   {

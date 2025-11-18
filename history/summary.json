@@ -6,9 +6,9 @@
     "slug": "license-service",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "92.15%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "91.26%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "99.97%",
     "time": 248,
     "timeDay": 221,
@@ -16,7 +16,7 @@
     "timeMonth": 227,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2025-11-18": 113,
+      "2025-11-18": 126,
       "2025-10-29": 23
     }
   },

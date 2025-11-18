@@ -6,17 +6,17 @@
     "slug": "license-service",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 248,
     "timeDay": 128,
     "timeWeek": 206,
     "timeMonth": 223,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 9,
       "2025-10-29": 23
     }
   },
@@ -25,19 +25,19 @@
     "url": "https://videovillage.com",
     "icon": "https://icons.duckduckgo.com/ip3/videovillage.com.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 171,
-    "timeDay": 157,
-    "timeWeek": 280,
-    "timeMonth": 203,
+    "timeDay": 154,
+    "timeWeek": 265,
+    "timeMonth": 201,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 9
     }
   }
 ]

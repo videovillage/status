@@ -4,18 +4,19 @@
     "url": "$VVLICENSE_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "license-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 248,
-    "timeDay": 188,
-    "timeWeek": 226,
-    "timeMonth": 227,
+    "timeDay": 128,
+    "timeWeek": 206,
+    "timeMonth": 223,
     "timeYear": 242,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-10-29": 23
     }
   },
@@ -24,17 +25,19 @@
     "url": "https://videovillage.com",
     "icon": "https://icons.duckduckgo.com/ip3/videovillage.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 172,
-    "timeDay": 241,
-    "timeWeek": 309,
-    "timeMonth": 207,
-    "timeYear": 182,
-    "dailyMinutesDown": {}
+    "time": 171,
+    "timeDay": 157,
+    "timeWeek": 280,
+    "timeMonth": 203,
+    "timeYear": 181,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   }
 ]

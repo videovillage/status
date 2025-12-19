@@ -4,7 +4,7 @@
     "url": "$VVLICENSE_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "license-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 250,
     "timeYear": 241,
     "dailyMinutesDown": {
+      "2025-12-19": 0,
       "2025-11-18": 113,
       "2025-10-29": 23
     }

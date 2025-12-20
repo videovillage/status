@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "license-service",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 249,
-    "timeDay": 134,
-    "timeWeek": 227,
-    "timeMonth": 247,
+    "timeDay": 225,
+    "timeWeek": 226,
+    "timeMonth": 251,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2025-12-19": 11,
       "2025-11-18": 113,
       "2025-10-29": 23
     }
@@ -33,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 175,
-    "timeDay": 112,
-    "timeWeek": 227,
-    "timeMonth": 193,
+    "timeDay": 191,
+    "timeWeek": 199,
+    "timeMonth": 194,
     "timeYear": 184,
     "dailyMinutesDown": {
       "2025-11-18": 97
